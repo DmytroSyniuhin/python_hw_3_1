@@ -12,5 +12,3 @@ elif mathematical_operation == "*":
     print(float(number_1) * float(number_2))
 elif mathematical_operation == "/":
     print(float(number_1) / float(number_2))
-else:
-    print("Перевірте чи вірно Ви ввели дані")
